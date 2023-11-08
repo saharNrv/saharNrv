@@ -32,21 +32,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharNrv" />
 </a>
 
-<h2>📞 &nbsp; Connct Me </h2>
+### Social 
 
-<p align="center">
- 
-  <a href="https://instagram.com/saharnourivand/">
-    <img src="https://img.shields.io/badge/Instagram-@sahar-Nrv?style=flat&logo=instagram" />
-  </a>
-  <a href="https://t.me/SaharNourivand/">
-    <img src="https://img.shields.io/badge/Telegram-@saharNrv-blue?style=flat&logo=telegram" />
-  </a>
-</p>
-
-<br />
- <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/saharNrv/saharNrv/blob/main/download.png?raw=true" width="32" height="32" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/github.svg" width="32" height="32" /></a>
-
+ <a href="https://t.me/SaharNourivand/" target="_blank" rel="noreferrer"><img src="https://github.com/saharNrv/saharNrv/blob/main/download.png?raw=true" width="32" height="32" /></a>
+ <a href="https://instagram.com/saharnourivand/" target="_blank" rel="noreferrer"><img src="https://github.com/saharNrv/saharNrv/blob/main/insta.png?raw=true" width="32" height="32" /></a>
+  
 
 
